@@ -1,0 +1,23 @@
+Application ID: 1001
+Student Name: Ananya
+Department: BCA
+Academic Percentage: 86.5
+Family Income: 180000
+Scholarship Name: Merit Scholarship
+Status: Pending
+
+Application ID: 1002
+Student Name: Rahul
+Department: B.Com
+Academic Percentage: 78.0
+Family Income: 220000
+Scholarship Name: Education Scholarship
+Status: Approved
+
+Application ID: 1003
+Student Name: Meena
+Department: B.Sc Computer Science
+Academic Percentage: 91.0
+Family Income: 140000
+Scholarship Name: Academic Scholarship
+Status: Pending
