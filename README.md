@@ -33,7 +33,8 @@ Project Files:
 - `main.c` – Main C program
 - `scholarship_records.txt` – Scholarship application records
 - `README.md` – Project documentation
-- `output.png` – Sample program output
+- `output1.png` – Sample program output
+- `output2.png`
 
 Objective:
 The main objective of this project is to provide a simple system for managing scholarship applications efficiently.
